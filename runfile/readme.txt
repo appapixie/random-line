@@ -4,6 +4,8 @@
 
 gihub link : https://github.com/appapixie/random-line
 
+download link : https://drive.google.com/file/d/1QjZOqedqMmXOVXN5f91qCsAL2MEVfgV8/view?usp=sharing
+
 
 ● 주의사항
 1. "jari.jpg" 이미지 파일이  "뽑기.exe"파일과 같은 폴더 혹은 같은 곳에 있어야 합니다.
